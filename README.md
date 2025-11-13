@@ -52,9 +52,3 @@ You must have **Python 3.x** installed on your system.
 ### Output Location
 
 All merged and split PDF files are automatically saved to your **Desktop** directory.
-
----
-
-## 📜 License
-
-This project is open-sourced under the **MIT License**. See the `LICENSE` file for details.
